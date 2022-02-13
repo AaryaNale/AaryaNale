@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaryaNale
-- 👀 I’m interested in HTML and CSS, also Python problem solving and web design 
-- 🌱 I’m currently learning CSS3
-- 💞️ I’m looking to collaborate on HTML or CSS
+- 👀 I'm interested in Python and Frontend development.  
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me: aaryanale21@gmail.com
 
 <!---
