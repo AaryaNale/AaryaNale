@@ -2,7 +2,9 @@
 - 👀 I'm interested in Python and Frontend development.  
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python.
-- 📫 How to reach me: aaryanale21@gmail.com
+- 📫 Reach out: aaryanale21@gmail.com
+- 🤝 Connect on [LinkedIn!](https://www.linkedin.com/in/aarya-nale/)
+- 🌐 Know more [about me!](https://aaryanale.carrd.co/)
 
 <!---
 AaryaNale/AaryaNale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
