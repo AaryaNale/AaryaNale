@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @AaryaNale
+<div align="center">
+  <h2>👋 Hi, I’m @AaryaNale</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Python+developer;Machine+learning+enthusiast" alt="Typing SVG" /></a>
+</div>
+
+
+
 - 👀 I'm interested in Python and Frontend development.  
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python.
